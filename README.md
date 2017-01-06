@@ -8,9 +8,9 @@ In this repository you find the slides to the talk and the simple backtracking e
 
 It also vendors the famous [**amb** implementation from Jim Weirich for Ruby Quiz 70](http://rubyquiz.com/quiz70.html).
 
-## [Watch the slides at Speakerdeck](https://speakerdeck.com/overbryd/constraint-programming)
+## [Watch a recording here](https://youtu.be/TxMXCkOQc7o)
 
-## [See a video recording here](https://youtu.be/TxMXCkOQc7o)
+## [The slides are available at Speakerdeck](https://speakerdeck.com/overbryd/constraint-programming)
 
 ## References to help you getting started on Constraint Programming
 
