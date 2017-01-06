@@ -1,5 +1,7 @@
 # Constraint Programming Talk
 
+![](https://github.com/Overbryd/constraint_programming_talk/raw/master/xkcd_np_complete.png)
+
 Held at @[Ruby User Group Berlin](https://berlin.onruby.de/) on the 5th of January 2017.
 
 In this repository you find the slides to the talk and the simple backtracking examples I prepared for the talk.
