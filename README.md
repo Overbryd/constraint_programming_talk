@@ -15,7 +15,7 @@ It also vendors the famous [**amb** implementation from Jim Weirich for Ruby Qui
 ## References to help you getting started on Constraint Programming
 
 * [A very well written introduction to CSP](http://www.math.unipd.it/~frossi/cp-school/CPschool05notes.pdf) by Roman Barták
-* [A complete introduction into the Theory](http://kti.mff.cuni.cz/~bartak/constraints/index.html) by Roman Barták
+* [An online guide to Constraint Programming](http://kti.mff.cuni.cz/~bartak/constraints/index.html) by Roman Barták
 * [A very broad and interesting collection of problems solved with CSP](http://www.hakank.org/constraint_programming_blog/) by Hakan Kjellerstrand
 * [Association for Constraint Programming](http://www.a4cp.org), check out their conferences and summer schools
 * [Managing Restaurant Tables Using Constraint Programming](http://tidel.mie.utoronto.ca/pubs/Theses/vidotto.phd.pdf) the thesis I have read, that got me started into Constraint Programming.
